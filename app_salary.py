@@ -26,7 +26,7 @@ with open('Salary_Scaler.pkl', 'rb') as file:
 # =============================
 st.set_page_config(page_title="Estimated Salary Prediction", layout="centered")
 
-st.title("💰 Customer Estimated Salary Prediction App")
+st.title("Customer Estimated Salary Prediction App")
 
 st.markdown("""
 Welcome to the **Customer Salary Predictor**!  
